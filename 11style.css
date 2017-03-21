@@ -1,7 +1,7 @@
 body{
     margin: 0;
 }
-/*文档头,标题*/
+/*header*/
 .up-1 .up{
     text-align: center;
    
@@ -97,7 +97,7 @@ body{
 
 
 
-    /*media设置*/
+    /*media*/
 #hidden2{
     display: none;
 }    
@@ -148,4 +148,4 @@ body{
         margin-right: auto;
     }
 }
-  /*midia设置  */
+  /*midia  */
